@@ -19,4 +19,4 @@ with st.expander('Initial data'):
   df.columns
 
   with st.expander('Data Viz'):
-      st.scatter_chart(data=df, x='bill_length_mn', y='body_mass_g', color='species')
+      st.scatter_chart(data=df, x='bill_length_mm', y='body_mass_g', color='species')
