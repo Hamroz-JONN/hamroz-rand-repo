@@ -1,9 +1,6 @@
-#  Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+#  Hamroz's Model in Streamlit
 
-Description of the app ...
+Predict price of the apartments
 
 ## Demo App
 
